@@ -1,0 +1,627 @@
+﻿# EUROPA UNIVERSALIS: ROME Music #
+
+track16 = {
+	music = "file:/music/mod_music/rome_auxiliaries.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track17 = {
+	music = "file:/music/mod_music/rome_barbariansapproaching.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track18 = {
+	music = "file:/music/mod_music/rome_citizens.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track19 = {
+	music = "file:/music/mod_music/rome_eagleflynorth.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track20 = {
+	music = "file:/music/mod_music/rome_elysianfields.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track21 = {
+	music = "file:/music/mod_music/rome_grief.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track22 = {
+	music = "file:/music/mod_music/rome_legionsofrome.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track23 = {
+	music = "file:/music/mod_music/rome_ridingtobattle.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track24 = {
+	music = "file:/music/mod_music/rome_rockandrome.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track25 = {
+	music = "file:/music/mod_music/rome_romegoestowar.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track26 = {
+	music = "file:/music/mod_music/rome_romeisthelight.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track27 = {
+	music = "file:/music/mod_music/rome_thebattleofzama.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track28 = {
+	music = "file:/music/mod_music/rome_thefield.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track29 = {
+	music = "file:/music/mod_music/rome_thesenate.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track30 = {
+	music = "file:/music/mod_music/rome_tovictory.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track31 = {
+	music = "file:/music/mod_music/rome_traderoutes.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track32 = {
+	music = "file:/music/mod_music/rome_vaevictis.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track33 = {
+	music = "file:/music/mod_music/rome_victorious_finale.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Rome Total War music #
+
+track34 = {
+	music = "file:/music/mod_music/Frontend1-Rome_Total_War.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track35 = {
+	music = "file:/music/mod_music/Frontend1-Rome_Total_War.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track36 = {
+	music = "file:/music/mod_music/Frontend2-Rome_HQ.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track37 = {
+	music = "file:/music/mod_music/Intro_Barbarian.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track38 = {
+	music = "file:/music/mod_music/Intro_Carthage.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track39 = {
+	music = "file:/music/mod_music/Intro_Eastern.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track40 = {
+	music = "file:/music/mod_music/Intro_Egyptian.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track41 = {
+	music = "file:/music/mod_music/Intro_Greek.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track42 = {
+	music = "file:/music/mod_music/Tension1-Journey_to_Rome_Part1.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track43 = {
+	music = "file:/music/mod_music/Tension4-Drums_of_Doom.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track44 = {
+	music = "file:/music/mod_music/Campaign1-Autumn.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track45 = {
+	music = "file:/music/mod_music/Campaign2-Melancholy.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track46 = {
+	music = "file:/music/mod_music/Campaign3-Divinitus.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track47 = {
+	music = "file:/music/mod_music/Campaign4-Lonely_Strategos.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track48 = {
+	music = "file:/music/mod_music/Campaign5-Arabic_Winter.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track49 = {
+	music = "file:/music/mod_music/Campaign6-Arabic_Summer.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Rome II Total War music #
+
+track50 = {
+	music = "file:/music/mod_music/Imperia_(Total_War_Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track51 = {
+	music = "file:/music/mod_music/The_Mediterranean_(Total_War_Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track52 = {
+	music = "file:/music/mod_music/Under_Vesuvius_(Total_War_Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track53 = {
+	music = "file:/music/mod_music/Ver_(Total_War_Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track54 = {
+	music = "file:/music/mod_music/Aestas_(Total_War_Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track55 = {
+	music = "file:/music/mod_music/A_Good_Harvest_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track56 = {
+	music = "file:/music/mod_music/Ambushers_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track57 = {
+	music = "file:/music/mod_music/Autumnus_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track58 = {
+	music = "file:/music/mod_music/Ba_al-Hamon_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track59 = {
+	music = "file:/music/mod_music/Babylon_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track60 = {
+	music = "file:/music/mod_music/City-States_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track61 = {
+	music = "file:/music/mod_music/Druid_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track62 = {
+	music = "file:/music/mod_music/Eastern_Sands_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track63 = {
+	music = "file:/music/mod_music/Frozen_Fields_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track64 = {
+	music = "file:/music/mod_music/Good_Omens_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track65 = {
+	music = "file:/music/mod_music/Hunters_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track66 = {
+	music = "file:/music/mod_music/Keening_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track67 = {
+	music = "file:/music/mod_music/Kings_And_Slaves_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track68 = {
+	music = "file:/music/mod_music/On_The_Shore_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track69 = {
+	music = "file:/music/mod_music/Primal_Forces_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track70 = {
+	music = "file:/music/mod_music/Radiant_Sun_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track71 = {
+	music = "file:/music/mod_music/Sacrifice_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track72 = {
+	music = "file:/music/mod_music/Shophet_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track73 = {
+	music = "file:/music/mod_music/Splendor_And_Ruin_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track74 = {
+	music = "file:/music/mod_music/Tales_Of_Old_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track75 = {
+	music = "file:/music/mod_music/Tanit_s_Favor_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track76 = {
+	music = "file:/music/mod_music/The_Mighty_Shall_Fall_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track77 = {
+	music = "file:/music/mod_music/The_River_Nile_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track78 = {
+	music = "file:/music/mod_music/War_And_Peace_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track79 = {
+	music = "file:/music/mod_music/Watchers_In_The_Dark_(Total_War__Rome_II_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Attila Total War music #
+
+track80 = {
+	music = "file:/music/mod_music/Autumn_Rains_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track81 = {
+	music = "file:/music/mod_music/Dark_Forest_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track82 = {
+	music = "file:/music/mod_music/Fiddler_Of_The_Plains_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track83 = {
+	music = "file:/music/mod_music/Mengu_Koq_Tengri_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track84 = {
+	music = "file:/music/mod_music/King_Of_The_Horde_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track85 = {
+	music = "file:/music/mod_music/To_The_West_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track86 = {
+	music = "file:/music/mod_music/Nomads_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track87 = {
+	music = "file:/music/mod_music/Spirit_of_the_Sky_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track88 = {
+	music = "file:/music/mod_music/Harbingers_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track89 = {
+	music = "file:/music/mod_music/Wanderers_Of_The_Steppe_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track90 = {
+	music = "file:/music/mod_music/Under_the_Eternal_Sky_(Total_War_Attila_OST).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Total War Saga Thrones of Brittania music #
+
+track91 = {
+	music = "file:/music/mod_music/A_King's_Saga_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track92 = {
+	music = "file:/music/mod_music/Land_Of_Hope_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track93 = {
+	music = "file:/music/mod_music/Moorland_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track94 = {
+	music = "file:/music/mod_music/Snowfall_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track95 = {
+	music = "file:/music/mod_music/The_Edge_Of_The_World_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track96 = {
+	music = "file:/music/mod_music/Yuletide_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track97 = {
+	music = "file:/music/mod_music/Mother's_Night_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track98 = {
+	music = "file:/music/mod_music/The_North_Remembers_(Thrones_of_Britannia_Soundtrack).mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# various music #
+
+track99 = {
+	music = "file:/music/mod_music/Constantinople_Queen_of_Cities-Epic Music.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track100 = {
+	music = "file:/music/mod_music/She_Lies_By_The_River.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track101 = {
+	music = "file:/music/mod_music/Octavian_leaves_-_Rome_season_2_soundtrack.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track102 = {
+	music = "file:/music/mod_music/Octavian_leaves_-_Rome_season_2_soundtrack.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
+
+track103 = {
+	music = "file:/music/mod_music/Ancient_Dance.mp3"
+	weight = 25
+	mood = yes
+	can_be_interrupted = yes
+}
